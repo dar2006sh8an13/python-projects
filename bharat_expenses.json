@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2025-10-31 11:26:29",
+        "category": "Bills",
+        "amount": 890.0,
+        "note": ""
+    },
+    {
+        "date": "2025-10-31 11:26:43",
+        "category": "Transport",
+        "amount": 7899.0,
+        "note": ""
+    },
+    {
+        "date": "2025-10-31 11:26:55",
+        "category": "Groceries",
+        "amount": 2345.0,
+        "note": ""
+    },
+    {
+        "date": "2025-10-31 11:27:26",
+        "category": "Bills",
+        "amount": 5467.0,
+        "note": ""
+    }
+]
